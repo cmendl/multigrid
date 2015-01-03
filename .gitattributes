@@ -1,0 +1,5 @@
+# explicit declaration of text files
+*.m text
+
+# explicit declaration of binary files
+*.mat binary
